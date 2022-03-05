@@ -41,9 +41,9 @@ namespace WindowsFormsApp1
             this.username.AutoSize = true;
             this.username.Location = new System.Drawing.Point(139, 104);
             this.username.Name = "username";
-            this.username.Size = new System.Drawing.Size(71, 17);
+            this.username.Size = new System.Drawing.Size(105, 17);
             this.username.TabIndex = 0;
-            this.username.Text = "username";
+            this.username.Text = "tran hong quan";
             this.username.Click += new System.EventHandler(this.label1_Click);
             // 
             // button1
@@ -57,7 +57,7 @@ namespace WindowsFormsApp1
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(226, 104);
+            this.textBox1.Location = new System.Drawing.Point(318, 99);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(250, 22);
             this.textBox1.TabIndex = 2;
